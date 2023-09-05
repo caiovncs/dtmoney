@@ -1,0 +1,92 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 1900,
+      "createdAt": "2023-08-23T21:49:33.220Z"
+    },
+    {
+      "id": 2,
+      "description": "Consultoria de Marketing",
+      "type": "income",
+      "category": "serviço",
+      "price": 1200,
+      "createdAt": "2023-08-24T10:15:45.123Z"
+    },
+    {
+      "id": 3,
+      "description": "Compra de suprimentos de escritório",
+      "type": "outcome",
+      "category": "compras",
+      "price": 350,
+      "createdAt": "2023-08-25T14:30:12.512Z"
+    },
+    {
+      "id": 4,
+      "description": "Pagamento de aluguel",
+      "type": "outcome",
+      "category": "moradia",
+      "price": 1200,
+      "createdAt": "2023-08-26T09:55:27.731Z"
+    },
+    {
+      "id": 5,
+      "description": "Venda de produtos online",
+      "type": "income",
+      "category": "venda",
+      "price": 800,
+      "createdAt": "2023-08-27T16:20:58.815Z"
+    },
+    {
+      "id": 6,
+      "description": "Manutenção de equipamentos",
+      "type": "outcome",
+      "category": "serviço",
+      "price": 500,
+      "createdAt": "2023-08-28T11:45:30.623Z"
+    },
+    {
+      "id": 7,
+      "description": "Reembolso de despesas de viagem",
+      "type": "income",
+      "category": "reembolso",
+      "price": 250,
+      "createdAt": "2023-08-29T08:10:14.927Z"
+    },
+    {
+      "id": 8,
+      "description": "Compra de material de estoque",
+      "type": "outcome",
+      "category": "compras",
+      "price": 600,
+      "createdAt": "2023-08-30T13:27:06.332Z"
+    },
+    {
+      "price": 999,
+      "description": "PC",
+      "category": "estudos",
+      "type": "outcome",
+      "createdAt": "2023-09-05T19:12:29.103Z",
+      "id": 9
+    },
+    {
+      "price": 50,
+      "description": "teclado",
+      "category": "estudos",
+      "type": "outcome",
+      "createdAt": "2023-09-05T19:14:20.811Z",
+      "id": 10
+    },
+    {
+      "price": 500,
+      "description": "Freela front end",
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2023-09-05T19:45:17.141Z",
+      "id": 11
+    }
+  ]
+}
