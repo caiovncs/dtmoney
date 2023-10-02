@@ -87,6 +87,14 @@
       "type": "income",
       "createdAt": "2023-09-05T19:45:17.141Z",
       "id": 11
+    },
+    {
+      "price": 500,
+      "description": "jjjboseta",
+      "category": "dinheiro",
+      "type": "income",
+      "createdAt": "2023-10-02T17:45:26.862Z",
+      "id": 12
     }
   ]
 }
